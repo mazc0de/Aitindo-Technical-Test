@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-blupurpGradient {
+    background: rgb(57, 189, 248);
+    background: linear-gradient(47deg, rgba(57, 189, 248, 1) 0%, rgba(98, 103, 241, 1) 100%);
+}
